@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "356535128203",
+    "project_id": "ecommerceapp-a32dc",
+    "storage_bucket": "ecommerceapp-a32dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356535128203:android:ad8cfe651b3cd9d72c848e",
+        "android_client_info": {
+          "package_name": "com.ecommerceapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356535128203-knnu1e25nbea8qg47jms3pelo3lsaocq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm6w1k7_DO_dK3T0D9xEG4oLxmg4llCGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356535128203-knnu1e25nbea8qg47jms3pelo3lsaocq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "356535128203-4k80i7405hkdhr8s2f0nelqvkm1fc067.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.EcommerceApp1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
